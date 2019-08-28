@@ -174,7 +174,7 @@ okta.oauth2.client-secret=$clientSecret
 ## Links
 
 These examples uses the following open source libraries:
-
+* https://developer.okta.com/blog/2019/08/28/reactive-microservices-spring-cloud-gateway
 * [Okta Spring Boot Starter](https://github.com/okta/okta-spring-boot) 
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [Spring Cloud](https://spring.io/projects/spring-cloud)
