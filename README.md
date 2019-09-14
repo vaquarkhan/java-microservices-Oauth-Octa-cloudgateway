@@ -1,6 +1,8 @@
 
 # Java Microservices with Spring Boot and Spring Cloud 🍃☁️
  
+ - https://www.youtube.com/watch?v=ez7HMO60kE8&feature=youtu.be
+ 
 This repository contains examples of how to build a Java microservices architecture with Spring Boot 2.1, Spring Cloud Greenwich, and Netflix Eureka.
 
 This repository has three examples in it. The first is a bare-bones microservices architecture with Spring Boot, Spring Cloud, Eureka Server, and Zuul. The second is one that's built with JHipster and configured centrally with Spring Cloud Config. The third uses Spring Cloud Gateway and Spring WebFlux to show reactive microservices.
